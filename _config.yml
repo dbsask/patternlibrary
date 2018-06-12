@@ -2,6 +2,4 @@ theme: jekyll-theme-minimal
 title: Design Pattern Library
 logo: /assets/img/logo.jpg
 description: Design pattern library to be used for stuff
-* [HTML Elements](./html-elements)
-* [About DSO](./about)
 show_downloads: true
