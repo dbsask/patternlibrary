@@ -10,4 +10,4 @@ Import the following (in this order)
   ## Header/Footer Script
   Goes here.
   
-  [markdown help](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
