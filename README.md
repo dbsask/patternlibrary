@@ -9,5 +9,6 @@ Import the following (in this order)
   
   ## Header/Footer Script
   Goes here.
-  
-  [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  # Help
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [UI Design Patterns](http://ui-patterns.com/)
