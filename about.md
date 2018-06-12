@@ -1,3 +1,7 @@
+---
+layout: sask
+---
+
 [Design Patterns](./) | [HTML Elements](./html-elements) | [About DSO](./about)
 
 # About
