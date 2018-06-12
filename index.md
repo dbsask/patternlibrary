@@ -19,7 +19,7 @@ The user needs to enter data into the system, where some input values are most l
   <button type="submit" class="btn btn-default">Submit</button>
 </form>
 
-## Usage
+### Usage
 * If signing in through Saskatchewan.ca Account, use data we have to speed up process.
 * Use when the user has to choose among many options, where some are most likely to match the default values chosen by other users.
 * Use when it is possible for the system to make qualified guesses regarding what the user might choose.
