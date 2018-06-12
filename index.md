@@ -1,6 +1,6 @@
 [HTML Elements](./html-elements) | [About DSO](./about)
 
-# Forms
+<h1 class="page-header" id="forms">Forms</h1>
 ## Good Defaults
 *Problem summary*
 
