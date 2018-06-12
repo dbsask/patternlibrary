@@ -3,3 +3,4 @@
 Stuff goes here
 
 [about page here](./about)
+[or here](about)
