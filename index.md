@@ -2,4 +2,4 @@
 
 Stuff goes here
 
-[about page here](/about)
+[about page here](./about)
