@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: This is the title from config
+title: Design Pattern Library
 logo: /assets/img/logo.jpg
-description: description from config
+description: Design pattern library to be used for...
 show_downloads: true
