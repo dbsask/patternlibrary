@@ -3,6 +3,7 @@
 # Forms
 ## Good Defaults
 *Problem summary*
+
 The user needs to enter data into the system, where some input values are most likely to match default values.
 
 *Example*
@@ -13,7 +14,7 @@ The user needs to enter data into the system, where some input values are most l
   </div>
   <div class="form-group">
     <label for="exampleInputEmail1">Email address</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="dso@gov.sk.ca">
+    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="derek.barnes@gov.sk.ca">
   </div>
   <button type="submit" class="btn btn-default">Submit</button>
 </form>
