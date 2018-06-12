@@ -1,4 +1,4 @@
-[HTML Elements](./html-elements) | [About DSO](./about)
+[Design Patterns](./) | [HTML Elements](./html-elements) | [About DSO](./about)
 
 <h1 class="page-header" id="forms">Forms</h1>
 ## Good Defaults
