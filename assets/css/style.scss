@@ -2,6 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-@import "bootstrap.min";
-@import "bootstrap-v4-utils";
-@import "bootstrap-overrides;
+@import "/patternlibrary/assets/css/bootstrap.min.css";
+@import "/patternlibrary/assets/css/bootstrap-v4-utils.css";
+@import "/patternlibrary/assets/css/bootstrap-overrides.css";
