@@ -75,4 +75,5 @@ When a user fills out a form it is most often with the purpose of filling it out
 
 Input prompt is often used for small forms that are key to the core functionality of a site as inserting the label inside the text field itself helps save space. For more elaborate forms, there is often more than enough room available to explain each input field.
 
+[http://ui-patterns.com/patterns/InputPrompt](http://ui-patterns.com/patterns/InputPrompt)
 <hr>
