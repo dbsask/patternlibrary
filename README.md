@@ -14,3 +14,4 @@ Import the following (in this order)
   # Help
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [UI Design Patterns](http://ui-patterns.com/)
+* [Minimal Theme usage](https://github.com/pages-themes/minimal)
