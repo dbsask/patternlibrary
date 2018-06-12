@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: This is the title from config
+description: description from config
+show_downloads: true
