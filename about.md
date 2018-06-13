@@ -1,5 +1,6 @@
 ---
 layout: sask
+gostitle: About
 ---
 
 # About
