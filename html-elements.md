@@ -10,13 +10,13 @@ gostitle: HTML Elements
 <h4>Heading 4</h4>
 <h5>Heading 5</h5>
 <h6>Heading 6</h6>
-<p><small><a href="#wrapper">[top]</a></small></p>
 <hr>
+<p style="text-align: right;"><a href="#top">top</a></p>
 <h2 id="paragraph">Paragraph</h2>
 <p>Lorem ipsum dolor sit amet, <a href="#" title="test link">test link</a> adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
 <p>Lorem ipsum dolor sit amet, <em>emphasis</em> consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
-<p><small><a href="#wrapper">[top]</a></small></p>
 <hr>
+<p style="text-align: right;"><a href="#top">top</a></p>
 <h2 id="buttons">Buttons</h2>
 <button type="button" class="btn">Basic</button><br>
 <button type="button" class="btn btn-default">Default</button><br>
@@ -26,8 +26,8 @@ gostitle: HTML Elements
 <button type="button" class="btn btn-warning">Warning</button><br>
 <button type="button" class="btn btn-danger">Danger</button><br>
 <button type="button" class="btn btn-link">Link</button><br>
-<p><small><a href="#wrapper">[top]</a></small></p>
 <hr>
+<p style="text-align: right;"><a href="#top">top</a></p>
 <h2 id="list_types">List Types</h2>
 <h3>Definition List</h3>
 <dl>
@@ -46,8 +46,8 @@ gostitle: HTML Elements
 <li>List Item 2</li>
 <li>List Item 3</li>
 </ul>
-<p><small><a href="#wrapper">[top]</a></small></p>
 <hr>
+<p style="text-align: right;"><a href="#top">top</a></p>
 <h2 id="form_elements">Forms</h2>
 <fieldset>
 <legend>Legend</legend>
@@ -84,8 +84,8 @@ gostitle: HTML Elements
 		</p>
 <p></p></form>
 </fieldset>
-<p><small><a href="#wrapper">[top]</a></small></p>
 <hr>
+<p style="text-align: right;"><a href="#top">top</a></p>
 <h2 id="tables">Tables</h2>
 <table cellspacing="0" cellpadding="0">
 <tbody><tr>
@@ -109,8 +109,8 @@ gostitle: HTML Elements
 <td>Division 3</td>
 </tr>
 </tbody></table>
-<p><small><a href="#wrapper">[top]</a></small></p>
 <hr>
+<p style="text-align: right;"><a href="#top">top</a></p>
 <h2 id="misc">Misc Stuff – abbr, acronym, pre, code, sub, sup, etc.</h2>
 <p>Lorem <sup>superscript</sup> dolor <sub>subscript</sub> amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. <cite>cite</cite>. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. <acronym title="National Basketball Association">NBA</acronym> Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  <abbr title="Avenue">AVE</abbr></p>
 <pre><p>
@@ -140,5 +140,5 @@ nunc. Morbi imperdiet augue
 <blockquote><p>
 	“This stylesheet is going to help so freaking much.” <br>-Blockquote
 </p></blockquote>
-<p><small><a href="#wrapper">[top]</a></small><br>
-<!-- End of Sample Content --></p>
+<hr>
+<p style="text-align: right;"><a href="#top">top</a></p>
