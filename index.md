@@ -1,6 +1,7 @@
-[Design Patterns](./) | [HTML Elements](./html-elements) | [About DSO](./about)
-
-# Design Patterns
+---
+layout: sask
+gostitle: Design Patterns
+---
 <h1 class="page-header" id="forms">Forms</h1>
 ## Good Defaults
 *Problem summary*
