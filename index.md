@@ -43,6 +43,7 @@ The default values might not be right, but at least you provided the user with a
 [http://ui-patterns.com/patterns/GoodDefaults](http://ui-patterns.com/patterns/GoodDefaults)
 
 <hr>
+<p style="align: right"><a href="#top">top</a></p>
 
 ### Input Prompt
 *Problem summary*
