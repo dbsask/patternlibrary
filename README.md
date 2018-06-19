@@ -1,6 +1,6 @@
 # Style Guide and Pattern Library
 
-Should we put both style guide (css/js/html template) and [Design Patterns](https://dbsask.github.io/patternlibrary/) in the same repository?
+Should we put both style guide (css/js/html template) and [Design Patterns](https://dbsask.github.io/patternlibrary/) in the same repository? Should we call it [Component Library](http://alistapart.com/article/problem-with-patterns)
 
 ## CSS
 Import the following (in this order)
