@@ -2,6 +2,21 @@
 layout: sask
 gostitle: Design Patterns
 ---
+## TOC
+1.	Salutations
+2.	Name
+3.	Gender or Sex
+4.	Birth date
+5.	Dates
+6.	Address
+7.	Phone Number
+8.	Email Address
+9.	Social Insurance Number
+10.	Hospitalization Number
+11.	User Name
+12.	Password
+
+
 ## Forms
 ### Good Defaults
 *Problem summary*
