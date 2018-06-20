@@ -4,17 +4,17 @@ gostitle: HTML Elements
 ---
 Saskatchewan.ca Elements
 
-1.	Layout
+1. Layout
 
-1.1.	Grid
+1.1. Grid
 
-1.2.	Spacing & Gutters
+1.2. Spacing & Gutters
 
-1.3.	Desktop
+1.3. Desktop
 
-1.4.	Tablet
+1.4. Tablet
 
-1.5.	Mobile
+1.5. Mobile
 
 
 References
