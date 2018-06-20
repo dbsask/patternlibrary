@@ -2,6 +2,81 @@
 layout: sask
 gostitle: HTML Elements
 ---
+Saskatchewan.ca Elements
+
+1.	Layout
+
+1.1.	Grid
+1.2.	Spacing & Gutters
+1.3.	Desktop
+1.4.	Tablet
+1.5.	Mobile
+
+References
+-	 http://www.saskatchewan.ca/government/visual-identity-and-protocol/digital-standards-and-framework/developers-building-blocks/front-end-code-standards-and-framework/grid-system 
+-	http://govuk-elements.herokuapp.com/layout/ 
+
+2.	Typography
+
+2.1.	Font
+2.2.	Heading
+2.3.	Body
+2.4.	Link
+2.5.	Caption
+2.6.	 Block quote
+2.7.	Bold
+2.8.	Italic 
+
+References
+-	http://www.saskatchewan.ca/government/visual-identity-and-protocol/digital-standards-and-framework/developers-building-blocks/style-guide/typography 
+3.	Color
+
+3.1.	Color Pallette
+3.2.	Use of Color (text, links, navigation, buttons..)
+3.3.	Color Contrast
+
+References
+-	http://www.saskatchewan.ca/government/visual-identity-and-protocol/digital-standards-and-framework/developers-building-blocks/style-guide/colour-palette
+-	http://www.saskatchewan.ca/government/visual-identity-and-protocol/digital-standards-and-framework/developers-building-blocks/style-guide/ui-colours 
+4.	Icons
+
+4.1.	Use of icons
+4.2.	Font Awesome
+
+References
+-	http://www.saskatchewan.ca/government/visual-identity-and-protocol/digital-standards-and-framework/developers-building-blocks/style-guide/iconography 
+-	https://www.nngroup.com/videos/icon-usability/ 
+5.	Images
+
+5.1.	Composition
+5.2.	Tone
+5.3.	Ratio
+
+References
+-	https://www.saskatchewan.ca/government/visual-identity-and-protocol/digital-standards-and-framework/sitecore-publishing/photography 
+6.	Form elements
+6.1.	Labels
+6.2.	Hint Text
+6.3.	Input Fields
+6.4.	Text Areas
+6.5.	Optional and Required Fields
+6.6.	 Spacing
+6.7.	 Select Boxes
+6.8.	 Radio Buttons
+6.9.	 Fieldsets
+6.10.	Check boxes
+6.11.	Buttons
+
+References
+-	smb://mstore/ITOGroup/DSU/Common/Program Management/Digital Standards/Digital Standards and Framework/Design Pattern Library/Saskatchewan Elements.rp
+7.	Error & Validation Handling
+8.	Progress Tracker
+9.	Feedback Bar
+10.	Header & Footer
+
+
+
+
 <p>The purpose of this HTML is to help determine what default settings are with CSS and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.</p>
 <hr>
 <h1>Heading 1</h1>
