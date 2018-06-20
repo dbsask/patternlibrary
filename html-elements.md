@@ -7,14 +7,19 @@ Saskatchewan.ca Elements
 1.	Layout
 
 1.1.	Grid
+
 1.2.	Spacing & Gutters
+
 1.3.	Desktop
+
 1.4.	Tablet
+
 1.5.	Mobile
 
+
 References
--	 http://www.saskatchewan.ca/government/visual-identity-and-protocol/digital-standards-and-framework/developers-building-blocks/front-end-code-standards-and-framework/grid-system 
--	http://govuk-elements.herokuapp.com/layout/ 
+- http://www.saskatchewan.ca/government/visual-identity-and-protocol/digital-standards-and-framework/developers-building-blocks/front-end-code-standards-and-framework/grid-system 
+- http://govuk-elements.herokuapp.com/layout/ 
 
 2.	Typography
 
